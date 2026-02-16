@@ -1,0 +1,7 @@
+Patient001,Ram,25,Fever,Admitted,Bill:5000
+Patient002,Sita,30,Cough,Discharged,Bill:3000
+Patient003,Ravi,22,Fever,Admitted,Bill:4500
+Patient004,Geeta,28,Headache,Admitted,Bill:2000
+Doctor101,Dr.Amit,Cardiology
+Doctor102,Dr.Priya,General Medicine
+Doctor103,Dr.Rahul,Neurology
